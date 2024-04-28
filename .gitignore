@@ -1,0 +1,18 @@
+# All types of virtualenvs
+.direnv/
+.venv/
+.env/
+
+# sqlite databases
+*.db
+
+# Always
+__pycache__/
+
+# IDEs
+.vscode/
+.idea/
+
+# Mac
+.DS_Store
+
